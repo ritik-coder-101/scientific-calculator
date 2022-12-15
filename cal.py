@@ -105,4 +105,5 @@ def degrees(a):
     b=math.degrees(a)
     print(format((b),".6f"))
 
-squareroot(67,89,74,73)
+
+squareroot(34,78,2)
